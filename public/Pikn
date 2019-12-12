@@ -1,0 +1,9 @@
+- name: NodeJS Action Template
+  uses: bitoiu/node-js-action-template@v1.0
+
+<Image
+  src={`https://assets.zeit.co/image/upload/q_auto/front/zeit/og.png`}
+  width={540}
+  height={309}
+  margin={0}
+/>
